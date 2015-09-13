@@ -32,7 +32,30 @@ body{
 .homediv{
     border:5px solid black;
     height:700px;
-    width:1290px;
+    width:1282px;
     background-image: url(assets/Elani-Pic.jpg);
     background-size: cover;
 }
+.discographydiv{
+     border:5px solid black;
+    height:670px;
+    width:1282px;
+}
+.tourdiv{
+    border:5px solid black;
+    height:670px;
+    width:1282px;
+}
+
+.musicdiv{
+    border:5px solid black;
+    height:670px;
+    width:1282px;
+}
+
+.gallerydiv{
+    border:5px solid black;
+    height:670px;
+    width:1282px;
+}
+
