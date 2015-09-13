@@ -40,6 +40,11 @@ body{
      border:5px solid black;
     height:670px;
     width:1282px;
+    text-align: center;
+}
+.discography_text{
+    margin-top: 200px;
+    padding:100px;
 }
 .tourdiv{
     border:5px solid black;
