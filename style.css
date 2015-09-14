@@ -2,10 +2,14 @@ body{
     margin:0;
     padding:0;
 }
+#body{
+
+
+}
 .navbar-fixed {
     top: 0;
     z-index: 100;
-  position: fixed;
+  position: absolute;
     width: 100%;
 }
 
@@ -14,7 +18,9 @@ body{
 	background-color: #202020;
 	border-radius: 0px;
 	margin-bottom: 0;
-    height: 30px;
+    height: 40px;
+    padding-left: 300px;
+    margin-right: 5px;
 }
 .nav_links {
     margin: 0;
@@ -34,15 +40,33 @@ body{
     height:700px;
     width:1282px;
     background-image: url(assets/Elani-Pic.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:cover;
 }
-
+.homedivp{
+    position: absolute;
+    left:500px;
+    top:300px;
+}
+.homedivp p{
+    font-size: 40px;
+    color:white;
+}
 .tourdiv{
     border:5px solid black;
     height:670px;
     width:1282px;
+    background-image: url(assets/elanibriansuit.jpg);
+    background-size: cover;
 }
+.table{
 
+    margin-top:800px;
+    padding: 70px;
+    margin:40px;
+    border:2px solid;
+
+}
 .musicdiv{
     border:5px solid black;
     height:670px;
